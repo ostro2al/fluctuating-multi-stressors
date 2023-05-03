@@ -2,10 +2,12 @@
 
 All code and data for 'Fluctuating fortunes: stressor synchronicity and fluctuating intensity influence biological impacts'
 
+Citation: Ostrowski A, Connolly RM, Brown CJ, Sievers M (2022) Fluctuating fortunes: Stressor synchronicity and fluctuating intensity influence biological impacts. Ecology Letters 25:2611-2623
+
 
 ## **About**
 
-This repository provides the data and code to reproduce all figures and tables, including supplemental materials, found in Ostrowski et al. (in prep).
+This repository provides the data and code to reproduce all figures and tables, including supplemental materials, found in Ostrowski et al. 2022.
 
 
 ## **Scripts**
